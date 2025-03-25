@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/IKEA-room-planner-concept/static/css/main.d2e6142c.css",
-    "main.js": "/IKEA-room-planner-concept/static/js/main.5e21fa36.js",
-    "static/js/453.eb459f51.chunk.js": "/IKEA-room-planner-concept/static/js/453.eb459f51.chunk.js",
-    "index.html": "/IKEA-room-planner-concept/index.html",
-    "main.d2e6142c.css.map": "/IKEA-room-planner-concept/static/css/main.d2e6142c.css.map",
-    "main.5e21fa36.js.map": "/IKEA-room-planner-concept/static/js/main.5e21fa36.js.map",
-    "453.eb459f51.chunk.js.map": "/IKEA-room-planner-concept/static/js/453.eb459f51.chunk.js.map"
+    "main.css": "/roomhelp/static/css/main.b2baf3ed.css",
+    "main.js": "/roomhelp/static/js/main.a96be150.js",
+    "static/js/453.68029c7f.chunk.js": "/roomhelp/static/js/453.68029c7f.chunk.js",
+    "index.html": "/roomhelp/index.html",
+    "main.b2baf3ed.css.map": "/roomhelp/static/css/main.b2baf3ed.css.map",
+    "main.a96be150.js.map": "/roomhelp/static/js/main.a96be150.js.map",
+    "453.68029c7f.chunk.js.map": "/roomhelp/static/js/453.68029c7f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2e6142c.css",
-    "static/js/main.5e21fa36.js"
+    "static/css/main.b2baf3ed.css",
+    "static/js/main.a96be150.js"
   ]
 }

@@ -1,2 +1,0 @@
-@tailwind base;@tailwind components;@tailwind utilities;@layer base{html{font-family:Noto Sans,Futura,Verdana,Roboto,sans-serif}body,h1,h2,h3,h4,h5,h6{@apply font-ikea lowercase font-medium}}@layer components{.btn-primary,.btn-secondary,.card,.input{@apply border border-gray-300 rounded-ikea p-2 focus:outline-none focus:ring-2 focus:ring-ikea-blue}}
-/*# sourceMappingURL=main.d2e6142c.css.map*/

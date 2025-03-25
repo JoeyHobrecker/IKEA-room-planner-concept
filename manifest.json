@@ -1,6 +1,6 @@
 {
-  "short_name": "IKEA Room Planner",
-  "name": "IKEA-inspired Room Planning Website",
+  "short_name": "RoomHelp",
+  "name": "RoomHelp - Room Planning Application",
   "icons": [
     {
       "src": "favicon.ico",
